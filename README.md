@@ -4,9 +4,9 @@ This project was originally completed as part of a team-based training program. 
 
 My Contributions
 
-Data cleaning and preprocessing
-NoSQL queries and data extraction
-Business findings and recommendations
-Notebook documentation
+- Data cleaning and preprocessing
+- NoSQL queries and data extraction
+- Business findings and recommendations
+- Notebook documentation
 
 
