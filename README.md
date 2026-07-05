@@ -1,2 +1,12 @@
 # MongoDB-in-Python
-The restaurant database is a MongoDB database that contains over 25,000 restaurants in NYC. Each restaurant gets a number of reviews in the format of grades, ranging from A,B,C.  The objective is to increase numbers of users of a restaurant app by providing good restaurant recommendations for users. 
+
+This project was originally completed as part of a team-based training program. While the final submission was submitted as a group project, the code in this repository represents my own implementation and analysis.
+
+My Contributions
+
+Data cleaning and preprocessing
+NoSQL queries and data extraction
+Business findings and recommendations
+Notebook documentation
+
+
