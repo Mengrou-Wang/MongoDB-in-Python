@@ -4,6 +4,7 @@ This project was originally completed as part of a team-based training program. 
 
 My Contributions:
 
+- Identify business objectives, business questions, outline of report
 - Data cleaning and preprocessing
 - NoSQL queries and data extraction
 - Business findings and recommendations
